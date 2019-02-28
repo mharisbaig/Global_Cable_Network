@@ -1,0 +1,49 @@
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\bin\Release\Global_Cable_Network.exe.config
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\bin\Release\Global_Cable_Network.exe
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\bin\Release\Global_Cable_Network.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmDealer.resources
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmLedgerHead.resources
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmLedgerSub.resources
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmLineMan.resources
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmLogin.resources
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmEmployee.resources
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmMain.resources
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmPatners.resources
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmPettycash.resources
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.Properties.Resources.resources
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.csproj.GenerateResource.Cache
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.exe
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.pdb
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\bin\Release\Global_Cable_Network.exe.config
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.exe
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.pdb
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmPayments.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmAdvertisment.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmAdvertismentIncome.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmCashExpense.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmCustomer.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmDealer.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmDealerDetail.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmLedgerHead.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmLedgerSub.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmLineMan.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmLogin.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmEmployee.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmMain.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmPatners.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmPettycash.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmUser.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.frmUserDetail.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.Properties.Resources.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.Reports.dealerDetailReport.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.Reports.frmAdverIncomerReport.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.Reports.frmCashExpenseReport.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.Reports.FrmCustomer.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.Reports.frmDealerRpt.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.Reports.frmLinemanReport.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.Reports.frmPartnerRpt.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.Reports.frmPettyCash.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.Reports.frmPetyInvoic.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.Reports.frmUserDetailReport.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.Reports.frmUserReport.resources
+C:\Users\Muhammad Noman\Desktop\GN\Global_Cable_Network\Global_Cable_Network\obj\x86\Release\Global_Cable_Network.csproj.GenerateResource.Cache
